@@ -13,7 +13,7 @@ from io import StringIO
 print("Now Loading...")
 
 # githubAPI系
-Github_Token = os.getenv('GITHUB_TOKEN')
+Github_Token = "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"
 print("Successfully acquired Github token")
 Repo_Owner = 'naparan'
 Repo_Name = 'kintoreCSV'
