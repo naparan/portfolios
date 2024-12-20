@@ -5,7 +5,7 @@ download link : https://xgf.nu/rGHDP
 
 2,
 concentration program (main.c)
-download link : 
+download link : https://github.com/naparan/portfolios/tree/main/concentration
 
 # movies
 
