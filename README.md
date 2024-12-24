@@ -9,7 +9,7 @@ concentration program (main.c)
 
 # 3D models (Blender)
 授業外制作
-1,pistol
+1,pistol \n
 2,ammo box
 
 # videos (After Effects)
