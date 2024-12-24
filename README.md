@@ -1,9 +1,9 @@
 # coding
-1, 
+1,
 random_fukkin program (main.py)  
 授業外制作  
 
-2,  
+2,
 concentration program (main.c)  
 授業内制作  
 
@@ -13,6 +13,6 @@ concentration program (main.c)
 2,ammo box
 
 # videos (After Effects)
-授業外制作
+授業外制作  
 1,fire tennis
 
